@@ -24,7 +24,21 @@ summer holidays, and autumn foliage season.
 ![Seasonality of Tourism Demand in Japan](seasonality_of_tourism_demand.png)
 
 
+![Seasonality of Tourism Demand in Japan](tourism_demand_forecast.png)
+
+
+![Seasonality of Tourism Demand in Japan](tourism_demand_forecast2.png)
+
+
+
 ## Conclusion
+This project forecasts inbound tourism demand to Japan using a SARIMAX model.
+
+Explanatory variables include:
+- Real Effective Exchange Rate (BIS)
+- Google Trends search demand
+- Lagged search indicators
+
+The model captures both macroeconomic effects and travel demand signals.
+
 ### Requirements
-
-
