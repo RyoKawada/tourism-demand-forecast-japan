@@ -14,20 +14,20 @@
 
 The figure shows monthly inbound visitors to Japan from 2019 onward.
 The data clearly captures the sharp collapse in tourism during the COVID-19 pandemic and the strong recovery that began in 2023.
-![Monthly Inbound Visitors to Japan](data/monthly_inbound_visitors.png)
+![Monthly Inbound Visitors to Japan](outputs/monthly_inbound_visitors.png)
 
 ### Seasonality of tourism demand
 
 Tourism demand in Japan shows clear seasonal patterns.
 Visitor numbers tend to increase during spring (cherry blossom season),
 summer holidays, and autumn foliage season.
-![Seasonality of Tourism Demand in Japan](seasonality_of_tourism_demand.png)
+![Seasonality of Tourism Demand in Japan](outputs/seasonality_of_tourism_demand.png)
 
 
-![Seasonality of Tourism Demand in Japan](tourism_demand_forecast.png)
+![Seasonality of Tourism Demand in Japan](outputs/tourism_demand_forecast.png)
 
 
-![Seasonality of Tourism Demand in Japan](tourism_demand_forecast2.png)
+![Seasonality of Tourism Demand in Japan](outputs/tourism_demand_forecast2.png)
 
 
 
