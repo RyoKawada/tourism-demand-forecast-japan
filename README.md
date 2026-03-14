@@ -15,6 +15,7 @@ The analysis focuses on three key signals:
 - Google search trends related to travel to Japan
 
 The goal is to explore whether these signals can help explain and predict inbound tourism demand.
+This project demonstrates how macroeconomic indicators and online search behavior can be integrated into tourism demand forecasting.
 
 ---
 
