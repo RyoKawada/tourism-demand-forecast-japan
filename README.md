@@ -1,4 +1,4 @@
-# Tourism Demand Forecast for Japan  
+# Tourism Demand Forecast for Japan
 Forecasting inbound tourism demand using macroeconomic indicators and search trends
 
 ## Overview
@@ -64,11 +64,11 @@ Inbound tourism to Japan shows strong growth before COVID-19 and a sharp decline
 
 ---
 
-### Seasonality Viritor Arrivals
+### Seasonal Pattern of Visitor Arrivals
 
-![visitor arrivals](outputs/seasonality_of_tourism_demand.png)
+![seasonality](outputs/seasonality_of_tourism_demand.png)
 
-Inbound tourism to Japan shows strong growth before COVID-19 and a sharp decline during the pandemic.
+Inbound tourism demand shows clear seasonal patterns, indicating that monthly arrivals are not evenly distributed throughout the year.
 
 ---
 
@@ -91,23 +91,9 @@ This suggests that combining economic indicators and search trends may help impr
 ---
 
 ## Repository Structure
-data/ # raw and processed datasets
-notebooks/ # analysis and modeling notebooks
-outputs/ # figures used in the README
-src/ # data processing and modeling scripts
 
----
-
-## How to Run
-
-Install dependencies:
-pip install -r requirements.txt
-
-Run the analysis notebook:
-notebooks/tourism_demand_forecast.ipynb
-
----
-
-## Author
-
-Ryo Kawada
+```text
+data/        # raw and processed datasets
+notebooks/   # analysis and modeling notebooks
+outputs/     # figures used in the README
+src/         # data processing and modeling scripts
