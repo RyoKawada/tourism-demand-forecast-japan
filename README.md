@@ -5,7 +5,7 @@
 
 ## Data Sources
 - JNTO (Foreign Visitors to Japan, Tourism Consumption)
-- Gooole trends
+- Goole trends
 - Bank for International Settlements (BIS)
 
 ## Methods
