@@ -82,7 +82,7 @@ Exchange rate movements can affect travel affordability and may influence inboun
 
 ## Forecast Results
 
-![forecast](outputs/tourism_demand_forecast2.png.png)
+![forecast](outputs/tourism_demand_forecast2.png)
 
 The SARIMAX model captures the seasonal pattern of inbound tourism and produces reasonable forecasts when macro indicators are included.
 
