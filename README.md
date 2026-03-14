@@ -14,7 +14,7 @@
 
 The figure shows monthly inbound visitors to Japan from 2019 onward.
 The data clearly captures the sharp collapse in tourism during the COVID-19 pandemic and the strong recovery that began in 2023.
-![Monthly Inbound Visitors to Japan](monthly_inbound_visitors.png)
+![Monthly Inbound Visitors to Japan](data/monthly_inbound_visitors.png)
 
 ### Seasonality of tourism demand
 
