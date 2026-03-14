@@ -97,6 +97,7 @@ data/        # raw and processed datasets
 notebooks/   # analysis and modeling notebooks
 outputs/     # figures used in the README
 src/         # data processing and modeling scripts
+requirements.txt  # Python dependencies
 
 How to Run
 Install dependencies:
