@@ -23,10 +23,8 @@ Visitor numbers tend to increase during spring (cherry blossom season),
 summer holidays, and autumn foliage season.
 ![Seasonality of Tourism Demand in Japan](outputs/seasonality_of_tourism_demand.png)
 
-aaaaa
 ![Tourism Demand Forecast](outputs/tourism_demand_forecast.png)
 
-aaaaa
 ![Tourism Demand Forecast2](outputs/tourism_demand_forecast2.png)
 
 
