@@ -58,7 +58,15 @@ Model inputs include:
 
 ### Visitor Arrivals
 
-![visitor arrivals](outputs/visitor_arrivals.png)
+![visitor arrivals](outputs/monthly_inbound_visitors.png)
+
+Inbound tourism to Japan shows strong growth before COVID-19 and a sharp decline during the pandemic.
+
+---
+
+### Seasonality Viritor Arrivals
+
+![visitor arrivals](outputs/seasonality_of_tourism_demand.png)
 
 Inbound tourism to Japan shows strong growth before COVID-19 and a sharp decline during the pandemic.
 
@@ -72,17 +80,9 @@ Exchange rate movements can affect travel affordability and may influence inboun
 
 ---
 
-### Google Trends
-
-![google trends](outputs/google_trends.png)
-
-Search activity related to travel to Japan can reflect travel interest before actual visits occur.
-
----
-
 ## Forecast Results
 
-![forecast](outputs/forecast.png)
+![forecast](outputs/tourism_demand_forecast2.png.png)
 
 The SARIMAX model captures the seasonal pattern of inbound tourism and produces reasonable forecasts when macro indicators are included.
 
