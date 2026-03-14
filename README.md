@@ -25,8 +25,9 @@ summer holidays, and autumn foliage season.
 
 ![Tourism Demand Forecast](outputs/tourism_demand_forecast.png)
 
-### Tourism demand forecast
+### SARIMAX Tourism Demand Forecast
 ![Tourism Demand Forecast2](outputs/tourism_demand_forecast2.png)
+Tourism demand forecast
 
 The SARIMAX model closely tracks the historical tourism demand.
 The dashed green line shows the forecast for the upcoming months.
