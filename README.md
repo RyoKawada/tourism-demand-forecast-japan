@@ -108,6 +108,7 @@ Install dependencies:
 pip install -r requirements.txt
 Run the analysis notebook:
 notebooks/tourism_demand_forecast.ipynb
+```
 
 Author
 Ryo Kawada
