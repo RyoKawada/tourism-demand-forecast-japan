@@ -94,21 +94,5 @@ This suggests that combining economic indicators and search trends may help impr
 
 ---
 
-## Repository Structure
-
-```text
-data/        # raw and processed datasets
-notebooks/   # analysis and modeling notebooks
-outputs/     # figures used in the README
-src/         # data processing and modeling scripts
-requirements.txt  # Python dependencies
-
-How to Run
-Install dependencies:
-pip install -r requirements.txt
-Run the analysis notebook:
-notebooks/tourism_demand_forecast.ipynb
-```
-
 Author
 Ryo Kawada
